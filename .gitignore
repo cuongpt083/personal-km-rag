@@ -1,3 +1,8 @@
+# coding agents
+.agent/
+AGENTS.md
+skills/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
